@@ -92,7 +92,7 @@ h6,
 
 @media (max-width: 768px) {
     .facts .text-white {
-        color: rgb(245, 157, 59) !important;
+        color: black !important;
     }
 }
 
