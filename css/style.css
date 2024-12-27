@@ -90,6 +90,12 @@ h6,
     font-weight: normal;
 }
 
+@media (max-width: 768px) {
+    .facts .text-white {
+        color: rgb(245, 157, 59) !important;
+    }
+}
+
 
 /*** Navbar ***/
 .navbar.sticky-top {
