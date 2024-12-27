@@ -91,10 +91,17 @@ h6,
 }
 
 @media (max-width: 768px) {
+    .facts {
+        background-color: rgba(0, 0, 0, 0.5);
+        /* Black overlay with 50% opacity */
+        background-blend-mode: overlay;
+    }
+}
+/* @media (max-width: 768px) {
     .facts .text-white {
         color: black !important;
     }
-}
+} */
 
 
 /*** Navbar ***/
